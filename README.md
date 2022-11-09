@@ -4,5 +4,5 @@
 
 ### Задание 1
 
-### [alt text](https://github.com/AzarnoyKir/9-01-hw/blob/main/img/9.01.jpg)
+### [img](https://github.com/AzarnoyKir/9-01-hw/blob/main/img/9.01.jpg)
 
